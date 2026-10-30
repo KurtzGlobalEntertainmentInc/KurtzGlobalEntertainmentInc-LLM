@@ -17,7 +17,7 @@ Under active development. No generally available, independently benchmarked conv
 
 ## Public documents
 
-A public PDF project brief is being prepared for this folder.
+[Read the Public Project Brief (PDF)](Karlisyn_Ann_Kurtz_Public_Project_Brief.pdf).
 
 ## Publication boundary
 
