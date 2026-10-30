@@ -10,6 +10,10 @@ This repository publishes approved, non-confidential descriptions and public inf
 - [Ezrasyn Michael Kurtz](projects/ezrasyn-michael-kurtz/README.md)
 - [Mickayla Ann Kurtz](projects/mickayla-ann-kurtz/README.md)
 
+## Family reference
+
+- [Kurtz Family History - public family tree](Kurtz-Family-History/README.md)
+
 ## Related initiative
 
 - [KGE Family Network](projects/kge-family-network/README.md) - a separate coordination project, **not** a language model.
