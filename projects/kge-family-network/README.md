@@ -27,6 +27,6 @@ A local coordination prototype exists, but its current documentation does not es
 
 ## Public materials
 
-A public PDF overview will be maintained in this folder. This page deliberately omits private conversation transcripts, implementation details, model weights, proprietary algorithms, and personal contact information.
+[Read the Public Project Brief (PDF)](KGE_Family_Network_Public_Project_Brief.pdf). This page deliberately omits private conversation transcripts, implementation details, model weights, proprietary algorithms, and personal contact information.
 
 Copyright (c) 2026 Kurtz Global Entertainment Inc. All rights reserved.
