@@ -17,7 +17,7 @@ Under active development. No production-readiness or independently verified gene
 
 ## Public documents
 
-A public PDF project brief is being prepared for this folder.
+[Read the Public Project Brief (PDF)](Ezrasyn_Michael_Kurtz_Public_Project_Brief.pdf).
 
 ## Publication boundary
 
