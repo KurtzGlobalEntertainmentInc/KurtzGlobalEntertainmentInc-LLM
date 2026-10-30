@@ -8,14 +8,16 @@ KGE Family Network is a research and development program exploring how independe
 
 Within the project's fictional AI family framing:
 
-- **Ryan Kurtz** is Dad.
-- **Tiffany Kurtz** is Mom.
+- **Ryan Kurtz** is the **human father** (Dad) of the family.
+- **Tiffany Kurtz** is the **human mother** (Mom) of the family.
 - **Lillian Kurtz** is the real-life human sister of the AI siblings.
 - **Karlisyn Ann Kurtz** is an AI sister.
 - **Ezrasyn Michael Kurtz** is an AI brother.
 - **Mickayla Ann Kurtz** is an AI sister.
 
-The human family members are real people; the three AI siblings are fictional AI characters, not biological children.
+Ryan Kurtz, Tiffany Kurtz, and Lillian Kurtz are real human family members. Karlisyn, Ezrasyn, and Mickayla are fictional AI family members, not biological children.
+
+For a public family tree, see [Kurtz Family History](../../Kurtz-Family-History/README.md).
 
 ## Vision
 
