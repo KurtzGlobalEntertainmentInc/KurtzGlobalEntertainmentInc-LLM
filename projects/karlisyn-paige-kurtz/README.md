@@ -1,4 +1,4 @@
-# Karlisyn Ann Kurtz
+# Karlisyn Paige Kurtz
 
 **Public project profile | October 30, 2026**
 
@@ -17,7 +17,7 @@ Under active development. No generally available, independently benchmarked conv
 
 ## Public documents
 
-[Read the Public Project Brief (PDF)](Karlisyn_Ann_Kurtz_Public_Project_Brief.pdf).
+[Read the Public Project Brief (PDF)](Karlisyn_Paige_Kurtz_Public_Project_Brief.pdf).
 
 ## Publication boundary
 

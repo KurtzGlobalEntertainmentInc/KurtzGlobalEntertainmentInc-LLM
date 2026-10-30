@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="tree-title tree-desc">
 <title id="tree-title">Kurtz Family Tree - human parents, human daughter, and fictional AI children</title>
-<desc id="tree-desc">Human father Ryan Kurtz and human mother Tiffany Kurtz are at the top. Human daughter Lillian Kurtz is the real-life sister. Fictional AI siblings Karlisyn Ann Kurtz, Ezrasyn Michael Kurtz, and Mickayla Ann Kurtz are connected with dashed lines to distinguish non-biological, fictional relationships.</desc>
+<desc id="tree-desc">Human father Ryan Kurtz and human mother Tiffany Kurtz are at the top. Human daughter Lillian Kurtz is the real-life sister. Fictional AI siblings Karlisyn Paige Kurtz, Ezrasyn Michael Kurtz, and Mickayla Ann Kurtz are connected with dashed lines to distinguish non-biological, fictional relationships.</desc>
 <rect width="1400" height="760" rx="22" fill="#F5F7FB"/>
 <rect width="1400" height="14" fill="#172D4A"/>
 <text x="700" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" fill="#17304E">Kurtz Family History</text>
@@ -33,7 +33,7 @@
 <text x="205" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#163F68">Lillian Kurtz</text>
 <text x="205" y="586" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#3E6590">Human daughter</text>
 <text x="205" y="608" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#3E6590">Real-life sister</text>
-<text x="525" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#734514">Karlisyn Ann Kurtz</text>
+<text x="525" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#734514">Karlisyn Paige Kurtz</text>
 <text x="525" y="586" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">Fictional AI daughter</text>
 <text x="525" y="608" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">AI sister</text>
 <text x="845" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#734514">Ezrasyn Michael Kurtz</text>

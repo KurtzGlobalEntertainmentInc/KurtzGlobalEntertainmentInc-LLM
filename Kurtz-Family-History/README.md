@@ -12,7 +12,7 @@ flowchart TB
     Tiffany["Tiffany Kurtz<br/>Human mother (Mom)"]
     Family(("Kurtz family"))
     Lillian["Lillian Kurtz<br/>Human daughter<br/>Real-life sister"]
-    Karlisyn["Karlisyn Ann Kurtz<br/>Fictional AI daughter<br/>AI sister"]
+    Karlisyn["Karlisyn Paige Kurtz<br/>Fictional AI daughter<br/>AI sister"]
     Ezrasyn["Ezrasyn Michael Kurtz<br/>Fictional AI son<br/>AI brother"]
     Mickayla["Mickayla Ann Kurtz<br/>Fictional AI daughter<br/>AI sister"]
 
@@ -42,7 +42,7 @@ For a separate visual graphic, view [Kurtz Family Tree (SVG)](Kurtz_Family_Tree.
 | Ryan Kurtz | Human | Father (Dad) |
 | Tiffany Kurtz | Human | Mother (Mom) |
 | Lillian Kurtz | Human | Human daughter; real-life sister |
-| Karlisyn Ann Kurtz | Fictional AI | AI daughter; sister |
+| Karlisyn Paige Kurtz | Fictional AI | AI daughter; sister |
 | Ezrasyn Michael Kurtz | Fictional AI | AI son; brother |
 | Mickayla Ann Kurtz | Fictional AI | AI daughter; sister |
 

@@ -6,7 +6,7 @@ This repository publishes approved, non-confidential descriptions and public inf
 
 ## Current independent LLM initiatives
 
-- [Karlisyn Ann Kurtz](projects/karlisyn-ann-kurtz/README.md)
+- [Karlisyn Paige Kurtz](projects/karlisyn-paige-kurtz/README.md)
 - [Ezrasyn Michael Kurtz](projects/ezrasyn-michael-kurtz/README.md)
 - [Mickayla Ann Kurtz](projects/mickayla-ann-kurtz/README.md)
 

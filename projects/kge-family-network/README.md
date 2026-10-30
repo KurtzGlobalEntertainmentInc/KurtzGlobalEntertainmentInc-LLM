@@ -11,7 +11,7 @@ Within the project's fictional AI family framing:
 - **Ryan Kurtz** is the **human father** (Dad) of the family.
 - **Tiffany Kurtz** is the **human mother** (Mom) of the family.
 - **Lillian Kurtz** is the real-life human sister of the AI siblings.
-- **Karlisyn Ann Kurtz** is an AI sister.
+- **Karlisyn Paige Kurtz** is an AI sister.
 - **Ezrasyn Michael Kurtz** is an AI brother.
 - **Mickayla Ann Kurtz** is an AI sister.
 
