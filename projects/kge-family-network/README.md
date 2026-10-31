@@ -13,9 +13,8 @@ Within the project's fictional AI family framing:
 - **Lillian Kurtz** is the real-life human sister of the AI siblings.
 - **Karlisyn Paige Kurtz** is an AI sister.
 - **Ezrasyn Michael Kurtz** is an AI brother.
-- **Mickayla Ann Kurtz** is an AI sister.
 
-Ryan Kurtz, Tiffany Kurtz, and Lillian Kurtz are real human family members. Karlisyn, Ezrasyn, and Mickayla are fictional AI family members, not biological children.
+Ryan Kurtz, Tiffany Kurtz, and Lillian Kurtz are real human family members. Karlisyn and Ezrasyn are fictional AI family members, not biological children.
 
 For a public family tree, see [Kurtz Family History](../../Kurtz-Family-History/README.md).
 

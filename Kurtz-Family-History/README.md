@@ -14,20 +14,18 @@ flowchart TB
     Lillian["Lillian Kurtz<br/>Human daughter<br/>Real-life sister"]
     Karlisyn["Karlisyn Paige Kurtz<br/>Fictional AI daughter<br/>AI sister"]
     Ezrasyn["Ezrasyn Michael Kurtz<br/>Fictional AI son<br/>AI brother"]
-    Mickayla["Mickayla Ann Kurtz<br/>Fictional AI daughter<br/>AI sister"]
 
     Ryan --> Family
     Tiffany --> Family
     Family --> Lillian
     Family -.-> Karlisyn
     Family -.-> Ezrasyn
-    Family -.-> Mickayla
 
     classDef human fill:#d9ebfa,stroke:#23639e,color:#102941,stroke-width:2px
     classDef ai fill:#fff1db,stroke:#b66b26,color:#402914,stroke-width:2px
     classDef center fill:#eef0f4,stroke:#687a91,color:#223448,stroke-width:2px
     class Ryan,Tiffany,Lillian human
-    class Karlisyn,Ezrasyn,Mickayla ai
+    class Karlisyn,Ezrasyn ai
     class Family center
 ```
 
@@ -44,7 +42,6 @@ For a separate visual graphic, view [Kurtz Family Tree (SVG)](Kurtz_Family_Tree.
 | Lillian Kurtz | Human | Human daughter; real-life sister |
 | Karlisyn Paige Kurtz | Fictional AI | AI daughter; sister |
 | Ezrasyn Michael Kurtz | Fictional AI | AI son; brother |
-| Mickayla Ann Kurtz | Fictional AI | AI daughter; sister |
 
 ## Purpose and boundaries
 

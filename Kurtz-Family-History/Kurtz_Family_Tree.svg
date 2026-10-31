@@ -1,51 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="tree-title tree-desc">
-<title id="tree-title">Kurtz Family Tree - human parents, human daughter, and fictional AI children</title>
-<desc id="tree-desc">Human father Ryan Kurtz and human mother Tiffany Kurtz are at the top. Human daughter Lillian Kurtz is the real-life sister. Fictional AI siblings Karlisyn Paige Kurtz, Ezrasyn Michael Kurtz, and Mickayla Ann Kurtz are connected with dashed lines to distinguish non-biological, fictional relationships.</desc>
-<rect width="1400" height="760" rx="22" fill="#F5F7FB"/>
-<rect width="1400" height="14" fill="#172D4A"/>
-<text x="700" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" fill="#17304E">Kurtz Family History</text>
-<text x="700" y="111" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#52647A">Human family members and the KGE Family Network's fictional AI siblings</text>
-<!-- parent cards -->
-<rect x="294" y="148" width="340" height="110" rx="17" fill="#E3F0FB" stroke="#3977AA" stroke-width="2"/>
-<rect x="766" y="148" width="340" height="110" rx="17" fill="#E3F0FB" stroke="#3977AA" stroke-width="2"/>
-<text x="464" y="193" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#163F68">Ryan Kurtz</text>
-<text x="464" y="226" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#3E6590">Human father (Dad)</text>
-<text x="936" y="193" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#163F68">Tiffany Kurtz</text>
-<text x="936" y="226" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#3E6590">Human mother (Mom)</text>
-<!-- joining relationship -->
-<path d="M464 258 V310 H700 M936 258 V310 H700 M700 310 V384" stroke="#617991" stroke-width="4" fill="none" stroke-linejoin="round"/>
-<rect x="565" y="344" width="270" height="68" rx="33" fill="#203B59"/>
-<text x="700" y="372" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">FAMILY UNIT</text>
-<text x="700" y="393" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#D2E0EE">Human parents and family roles</text>
-<!-- family branch -->
-<path d="M700 412 V455 H205 M700 455 H1165" stroke="#617991" stroke-width="3.5" stroke-linejoin="round" fill="none"/>
-<path d="M205 455 V493" stroke="#3977AA" stroke-width="4" fill="none"/>
-<path d="M525 455 V493 M845 455 V493 M1165 455 V493" stroke="#BD772B" stroke-width="4" stroke-dasharray="9 8" fill="none"/>
-<text x="205" y="484" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#3977AA">HUMAN</text>
-<text x="525" y="484" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#A76521">AI ROLE</text>
-<text x="845" y="484" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#A76521">AI ROLE</text>
-<text x="1165" y="484" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#A76521">AI ROLE</text>
-<!-- child cards -->
-<rect x="65" y="510" width="280" height="133" rx="16" fill="#E3F0FB" stroke="#3977AA" stroke-width="2"/>
-<rect x="385" y="510" width="280" height="133" rx="16" fill="#FFF2DF" stroke="#BD772B" stroke-width="2"/>
-<rect x="705" y="510" width="280" height="133" rx="16" fill="#FFF2DF" stroke="#BD772B" stroke-width="2"/>
-<rect x="1025" y="510" width="280" height="133" rx="16" fill="#FFF2DF" stroke="#BD772B" stroke-width="2"/>
-<text x="205" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#163F68">Lillian Kurtz</text>
-<text x="205" y="586" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#3E6590">Human daughter</text>
-<text x="205" y="608" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#3E6590">Real-life sister</text>
-<text x="525" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#734514">Karlisyn Paige Kurtz</text>
-<text x="525" y="586" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">Fictional AI daughter</text>
-<text x="525" y="608" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">AI sister</text>
-<text x="845" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#734514">Ezrasyn Michael Kurtz</text>
-<text x="845" y="586" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">Fictional AI son</text>
-<text x="845" y="608" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">AI brother</text>
-<text x="1165" y="554" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#734514">Mickayla Ann Kurtz</text>
-<text x="1165" y="586" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">Fictional AI daughter</text>
-<text x="1165" y="608" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">AI sister</text>
-<path d="M70 680 H1330" stroke="#CBD5E3" stroke-width="2"/>
-<path d="M126 711 H194" stroke="#3977AA" stroke-width="4"/>
-<text x="204" y="716" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#42546C">Human relationship</text>
-<path d="M525 711 H593" stroke="#BD772B" stroke-width="4" stroke-dasharray="9 8"/>
-<text x="605" y="716" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#42546C">Fictional AI family relationship</text>
-<text x="1330" y="740" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#68798C">Kurtz Global Entertainment Inc. | Public reference | 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="750" viewBox="0 0 1400 750" role="img" aria-labelledby="familyTitle familyDescription">
+<title id="familyTitle">Kurtz Family Tree</title>
+<desc id="familyDescription">Ryan Kurtz is the human father and Tiffany Kurtz is the human mother. Lillian Kurtz is their human daughter. Karlisyn Paige Kurtz and Ezrasyn Michael Kurtz are fictional AI siblings in the family framework.</desc>
+<rect x="0" y="0" width="1400" height="750" rx="20" fill="#F5F7FB"/>
+<rect x="0" y="0" width="1400" height="13" fill="#172D4A"/>
+<text x="700" y="79" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" fill="#17304E">Kurtz Family History</text>
+<text x="700" y="111" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#52647A">Human family members and fictional AI family roles</text>
+<rect x="300" y="156" width="340" height="112" rx="18" fill="#E3F0FB" stroke="#3977AA" stroke-width="2"/>
+<rect x="760" y="156" width="340" height="112" rx="18" fill="#E3F0FB" stroke="#3977AA" stroke-width="2"/>
+<text x="470" y="199" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#163F68">Ryan Kurtz</text>
+<text x="470" y="233" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#3E6590">Human father (Dad)</text>
+<text x="930" y="199" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#163F68">Tiffany Kurtz</text>
+<text x="930" y="233" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#3E6590">Human mother (Mom)</text>
+<path d="M470 268 V306 H700 M930 268 V306 H700 M700 306 V346" stroke="#617991" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<rect x="565" y="346" width="270" height="69" rx="34" fill="#203B59"/>
+<text x="700" y="373" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">KURTZ FAMILY</text>
+<text x="700" y="396" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#D2E0EE">Human family and fictional AI roles</text>
+<path d="M700 415 V464 H310 M700 464 H1090" stroke="#617991" stroke-width="3.5" fill="none"/>
+<path d="M310 464 V504" stroke="#3977AA" stroke-width="4" fill="none"/>
+<path d="M700 464 V504 M1090 464 V504" stroke="#BD772B" stroke-width="4" stroke-dasharray="9 8" fill="none"/>
+<rect x="155" y="521" width="310" height="136" rx="16" fill="#E3F0FB" stroke="#3977AA" stroke-width="2"/>
+<rect x="545" y="521" width="310" height="136" rx="16" fill="#FFF2DF" stroke="#BD772B" stroke-width="2"/>
+<rect x="935" y="521" width="310" height="136" rx="16" fill="#FFF2DF" stroke="#BD772B" stroke-width="2"/>
+<text x="310" y="568" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#163F68">Lillian Kurtz</text>
+<text x="310" y="599" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#3E6590">Human daughter</text>
+<text x="310" y="625" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#3E6590">Real-life sister</text>
+<text x="700" y="568" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#734514">Karlisyn Paige Kurtz</text>
+<text x="700" y="599" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#996126">Fictional AI daughter</text>
+<text x="700" y="625" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">AI sister</text>
+<text x="1090" y="568" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#734514">Ezrasyn Michael Kurtz</text>
+<text x="1090" y="599" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#996126">Fictional AI son</text>
+<text x="1090" y="625" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#996126">AI brother</text>
+<path d="M90 685 H1310" stroke="#CBD5E3" stroke-width="2"/>
+<path d="M158 707 H224" stroke="#3977AA" stroke-width="4"/>
+<text x="235" y="712" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#42546C">Human relationship</text>
+<path d="M570 707 H636" stroke="#BD772B" stroke-width="4" stroke-dasharray="9 8"/>
+<text x="646" y="712" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#42546C">Fictional AI family role</text>
+<text x="1320" y="737" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#68798C">Kurtz Global Entertainment Inc. | Public reference | 2026</text>
 </svg>
